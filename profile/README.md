@@ -5,6 +5,10 @@ You found the GitHub organization for STEM Homework Helpers & Students
 
 Here are some links to visit!
 
+## Server website
+
+[https://stem.help](https://stem.help)
+
 ## Backend source code
 
 [stem-help-backend](https://github.com/stem-discord/stem-help-backend)
