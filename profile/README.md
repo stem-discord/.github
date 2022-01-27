@@ -17,4 +17,31 @@ Here are some links to visit!
 
 [stem-help](https://github.com/stem-discord/stem-help)
 
-More information to come...
+## stats.stem.help
+
+[stats.stem.help](https://stats.stem.help)
+
+### source code
+
+[stats-stem-help](https://github.com/stem-discord/stats-stem-help)
+
+## verify.stem.help
+
+[verify.stem.help](https://verify.stem.help)
+
+### source code
+
+[verify-stem-help](https://github.com/stem-discord/verify-stem-help)
+
+> backend source code is hidden for security reasons
+
+# Our server information
+
+## Public
+
+[public](https://github.com/stem-discord/public)
+
+Work in progress
+
+[resources](https://github.com/stem-discord/resources)
+
